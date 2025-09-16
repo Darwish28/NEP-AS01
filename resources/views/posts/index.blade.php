@@ -1,5 +1,5 @@
 <x-layouts.app>
-  <h1 class="text-2xl font-bold mb-4">Bahit was Here</h1>
+  <h1 class="text-2xl font-bold mb-4">Bahit</h1>
 
   @if (session('status'))
     <div class="mb-3">{{ session('status') }}</div>
